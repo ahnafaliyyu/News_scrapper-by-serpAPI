@@ -1,1 +1,0 @@
-# News_scrapper-by-serpAPI
